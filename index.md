@@ -1,35 +1,52 @@
 ---
-title: Home
+title: Codex 2025
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Codex 2025
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+CodEX (Code & Exploit) adalah acara _crossover_ antara dua komunitas dan lembaga di Filkom UB, yaitu [BCC](https://www.instagram.com/bccfilkom) dan [POROS](https://www.instagram.com/porosfilkom/). Acara ini ditujukan untuk memperkenalkan  dan mempersiapkan mahasiswa Filkom UB untuk lomba bidang pemrograman (_competitive programming_) dan keamanan siber (_capture the flag_).
 
-More specifically, the created site:
+## Table of Contents
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+- [Codex 2025](#codex-2025)
+  - [Table of Contents](#table-of-contents)
+  - [What Will Be Held?](#what-will-be-held)
+  - [Event Details](#event-details)
+  - [Why Should I Join?](#why-should-i-join)
+  - [Last Words](#last-words)
+  - [Any Questions?](#any-questions)
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## What Will Be Held?
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Ada dua kegiatan utama yang akan diadakan dalam acara Codex 2025.
 
-To get started with creating a site, simply:
+1. _Workshop_, yaitu kegiatan yang akan mempersiapkan mahasiswa untuk mengikuti kompetisi _competitive programming_ dan _capture the flag_. _Workshop_ ini akan membahas tentang gambaran umum lomba, materi lomba, dan _hands-on_ terhadap _challenges_ dan pembahasannya.
+2. _Competition_, yaitu perlombaan di bidang _competitive programming_ dan _capture the flag_. Peserta _workshop_ dapat mengimplementasikan ilmu yang didapat dengan berkompetisi dalam perlombaan ini dan memenangkan hadiah yang bakal direveal nanti.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Event Details
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+1. Detail untuk _workshop_ dapat diakses [di sini](./docs/workshop.html).
+2. Detail untuk _competition_ dapat diakses [di sini](./docs/competitions/).
 
-----
+## Why Should I Join?
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Selama tahun 2025, kita sering melihat kompetisi yang diadakan di Filkom UB lebih banyak berfokus pada bidang kreatif seperti desain _(art)_ dan olahraga _(sports)_. Hal ini tentunya positif karena membantu mahasiswa mengasah kemampuan di luar perkuliahan. Namun, sayangnya, kompetisi yang terkait langsung dengan bidang akademik, terutama pemrograman dan keamanan siber, masih jarang terlihat. Padahal, kedua bidang ini adalah inti dari pendidikan Ilmu Komputer, namun belum mendapat eksposur yang cukup.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Melalui kegiatan ini, kami ingin menghadirkan sebuah wadah bagi mahasiswa yang memiliki minat atau bakat di bidang _competitive programming (CP)_ dan keamanan siber _(CTF)_. CP, yang merupakan dasar dari banyak teknologi digital, sering terabaikan di tengah maraknya kompetisi _UI/UX_ dan _business case_. Padahal, kemampuan CP sangat penting untuk karir di berbagai bidang seperti _software engineering_, _data science_, hingga _Internet of Things (IoT)_. Jika kalian memiliki dasar pemrograman yang kuat, apapun bidang yang kalian geluti di masa depan, kalian akan lebih siap, kompetitif serta cepat beradaptasi.
+
+Di sisi lain, bidang keamanan siber juga belum banyak terekspos meski memiliki prospek kerja yang luar biasa di Indonesia. Banyak mahasiswa yang tertarik tetapi bingung harus mulai dari mana. Oleh karena itu, kami mengadakan workshop dan kompetisi _capture the flag (CTF)_, yang akan menjadi langkah awal untuk mengeksplorasi dunia keamanan siber lebih dalam. Selain sebagai ajang pembelajaran, kompetisi ini juga merupakan penghargaan bagi mereka yang sudah memiliki keahlian di bidang ini.
+
+Kami berharap dengan mengadakan _Codex_, minat mahasiswa Filkom UB terhadap pemrograman dan keamanan siber semakin meningkat. Bagi kalian yang masih pemula, jangan khawatir, karena kami juga akan mengadakan workshop bersama para ahli di bidangnya. Ini kesempatan kalian untuk belajar, berkembang, dan menorehkan prestasi. Jadi, kenapa tidak ikut? Sudah waktunya untuk menggali potensi di luar _UI/UX_ dan _business case_!
+
+## Last Words
+
+Kami mengadakan kegiatan ini _pure_ untuk membuka wawasan mahasiswa Filkom UB dan meningkatkan _skill_ masing-masing individu di bidang pemrograman dan keamanan siber. Oleh karena itu, ayo ikut _workshop_ Codex untuk belajar mengenai hal tersebut dan juga ikut kompetisi Codex untuk memenangkan hadiah yang bakal direveal nanti! Selain itu, bagi kalian para _sertif hunter_ juga wajib ikut karena seluruh peserta _workshop_ dan _competition_ pasti akan dapat sertifikat!
+
+## Any Questions?
+
+Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
+
+- 👤[WA]: [+62 857-5058-3867](https://wa.me/+6285750583867) (Oktavianus)
+- 👤[WA]: [+62 838-0828-2977](https://wa.me/+6283808282977) (Desta)
