@@ -21,11 +21,11 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
   - [Teknis Lomba](#teknis-lomba)
     - [Sistem Penilaian](#sistem-penilaian)
     - [Ketentuan Diskualifikasi](#ketentuan-diskualifikasi)
-    - [**Penghargaan**](#penghargaan)
+    - [Penghargaan](#penghargaan)
   - [Narahubung](#narahubung)
 
 ## Ketentuan
-**NOTE: BAGI PESERTA YANG SUDAH MERAIH JUARA (termasuk harapan) DALAM ACARA CODEX 2023, TIDAK AKAN DAPAT MEMPEROLEH JUARA UNTUK ACARA CODEX 2024**
+**NOTE: BAGI PESERTA YANG SUDAH MERAIH JUARA (termasuk harapan) DALAM ACARA CODEX 2024, TIDAK AKAN DAPAT MEMPEROLEH JUARA UNTUK ACARA CODEX 2025**
 1. Peserta merupakan mahasiswa aktif Fakultas Ilmu Komputer Universitas Brawijaya angkatan 2022, 2023, atau 2024.
 2. Peserta mengikuti kompetisi secara individu dan dilarang bekerja sama dengan peserta lain.
 3. Peserta bersedia dan wajib mengikuti seluruh rangkaian acara, prosedur, dan ketentuan perlombaan.
@@ -35,7 +35,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal 18 Oktober - 1 November 2024. 
+1. Periode pendaftaran lomba ada di tanggal 31 Oktober - 7 November 2025. 
 2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/competitioncodex24](https://s.ub.ac.id/competitioncodex24).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
@@ -45,10 +45,10 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
-| 18 Oktober - 1 November 2024  | Pendaftaran       | Dilakukan pada URL di atas    |
-| 27 Oktober - 1 November 2024  | Pelaksanaan Lomba | Dilakukan pada platform lomba |
-| 1 - 2 November 2024           | Penulisan Writeup | Dilakukan secara pribadi      |
-| 3 November 2024               | Pengumuman        | Dilakukan secara online       |
+| 31 Oktober - 7 November 2025  | Pendaftaran       | Dilakukan pada URL di atas    |
+| 10 November - 14 November 2025  | Pelaksanaan Lomba | Dilakukan pada platform lomba |
+| 14 - 15 November 2025           | Penulisan Writeup | Dilakukan secara pribadi      |
+| 16 November 2025               | Pengumuman        | Dilakukan secara online       |
 
 ## Tahapan Lomba
 
@@ -56,9 +56,9 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pemanasan.
 2. Format kompetisi adalah _jeopardy_.
-3. Kompetisi akan dilakukan selama 7 hari dari tanggal 27 Oktober 2024 pukul 09:00 WIB hingga 1 November 2024 pukul 17:00 WIB. 
+3. Kompetisi akan dilakukan selama 5 hari dari tanggal 10 November 2025 pukul 09:00 WIB hingga 14 November 2025 pukul 17:00 WIB. 
 4. _Scoreboard_ dari kompetisi akan dibekukan 1 jam sebelum kompetisi selesai. Selama _scoreboard_ dibekukan, setiap peserta tetap dapat mengerjakan dan melakukan _submit_ pada _flag_, tetapi skor akhir tidak akan ditampilkan pada _scoreboard_.
-5. Setelah kompetisi selesai, setiap peserta **wajib** membuat _write-up_, yaitu dokumen yang berisi langkah pengerjaan dari setiap tantangan yang berhasil diselesaikan, dan dikumpulkan di _form_ yang disediakan nantinya. Dokumen diharapkan memenuhi format penamaan `[NIM]_Writeup_Codex.pdf` (contoh: `205150200111099_Writeup_Codex.pdf`). Dokumen dikumpulkan maksimal pada tanggal 2 November 2024 pukul 23:59 WIB. 
+5. Setelah kompetisi selesai, setiap peserta **wajib** membuat _write-up_, yaitu dokumen yang berisi langkah pengerjaan dari setiap tantangan yang berhasil diselesaikan, dan dikumpulkan di _form_ yang disediakan nantinya. Dokumen diharapkan memenuhi format penamaan `[NIM]_Writeup_Codex.pdf` (contoh: `205150200111099_Writeup_Codex.pdf`). Dokumen dikumpulkan maksimal pada tanggal 15 November 2025 pukul 23:59 WIB. 
 
 ## Teknis Lomba
 

@@ -25,12 +25,12 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 ## Ketentuan
 
 1. Peserta merupakan mahasiswa aktif Fakultas Ilmu Komputer Universitas Brawijaya.
-2. Peserta _workshop_ terbatas hanya **120 orang**, 60 orang untuk _competitive programming_ dan 60 orang untuk _capture the flag_.
+2. Peserta _workshop_ terbatas hanya **100 orang**, 50 orang untuk _competitive programming_ dan 50 orang untuk _capture the flag_.
 3. Peserta yang mengikuti _workshop_ hingga selesai akan mendapatkan sertifikat mengikuti kegiatan.
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran _workshop_ ada di tanggal 18 Oktober - 25 Oktober 2024.
+1. Periode pendaftaran _workshop_ ada di tanggal 31 Oktober - 7 November 2025.
 2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/workshopcodex24](https://s.ub.ac.id/workshopcodex24).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi peserta yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
@@ -40,8 +40,8 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
-| 18 Oktober - 25 Oktober 2024  | Pendaftaran       | Dilakukan pada URL di atas    |
-| 8 November 2024               | Workshop          | GKM Filkom 4.1 dan 4.2        |
+| 31 Oktober - 7 November 2025  | Pendaftaran       | Dilakukan pada URL di atas    |
+| 9 November 2024               | Workshop          | GKM Filkom 4.1 dan 4.2        |
 
 ## Narahubung
 
