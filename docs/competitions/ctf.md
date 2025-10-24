@@ -26,7 +26,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Ketentuan
 **NOTE: BAGI PESERTA YANG SUDAH MERAIH JUARA (termasuk harapan) DALAM ACARA CODEX 2024, TIDAK AKAN DAPAT MEMPEROLEH JUARA UNTUK ACARA CODEX 2025**
-1. Peserta merupakan mahasiswa aktif Fakultas Ilmu Komputer Universitas Brawijaya angkatan 2022, 2023, atau 2024.
+1. Peserta merupakan mahasiswa aktif Fakultas Ilmu Komputer Universitas Brawijaya angkatan 2023, 2024, atau 2025.
 2. Peserta mengikuti kompetisi secara individu dan dilarang bekerja sama dengan peserta lain.
 3. Peserta bersedia dan wajib mengikuti seluruh rangkaian acara, prosedur, dan ketentuan perlombaan.
 4. Panitia berhak mendiskualifikasi peserta yang melakukan pelanggaran tanpa pemberitahuan sebelumnya.
@@ -94,8 +94,6 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2
 | Juara 1             | Tumblr, Totebag, Ganci, Vandel + Sertifikat |
 | Juara 2             | Totebag, Ganci, Vandel + Sertifikat |
 | Juara 3             | Totebag, Ganci, Vandel + Sertifikat |
-| Honorable Mention 1 | Sertifikat |
-| Honorable Mention 2 | Sertifikat |
 
 Catatan: Khusus untuk peserta angkatan 2023, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2023 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 

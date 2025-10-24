@@ -96,8 +96,6 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2
 | Juara 1             | Tumblr, Totebag, Ganci, Vandel + Sertifikat |
 | Juara 2             | Totebag, Ganci, Vandel + Sertifikat |
 | Juara 3             | Totebag, Ganci, Vandel + Sertifikat |
-| Honorable Mention 1 | Sertifikat |
-| Honorable Mention 2 | Sertifikat |
 
 Catatan: Khusus untuk peserta angkatan 2023, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2023 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 

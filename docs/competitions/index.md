@@ -18,8 +18,6 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang setiap bidang lomba (
 | Juara 1             | Tumblr, Totebag, Ganci, Vandel + Sertifikat |
 | Juara 2             | Totebag, Ganci, Vandel + Sertifikat |
 | Juara 3             | Totebag, Ganci, Vandel + Sertifikat |
-| Honorable Mention 1 | Sertifikat |
-| Honorable Mention 2 | Sertifikat |
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
