@@ -48,5 +48,5 @@ Kami mengadakan kegiatan ini _pure_ untuk membuka wawasan mahasiswa Filkom UB da
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [+62 857-5058-3867](https://wa.me/+6285750583867) (Oktavianus)
+- 👤[WA]: [+62 878-8248-6002](https://wa.me/+6287882486002) (Nadia)
 - 👤[WA]: [+62 838-0828-2977](https://wa.me/+6283808282977) (Desta)

@@ -36,7 +36,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 ## Prosedur Pendaftaran
 
 1. Periode pendaftaran lomba ada di tanggal 31 Oktober - 7 November 2025. 
-2. Peserta dapat mendaftar melalui URL berikut: [https://s.ub.ac.id/competitioncodex24](https://s.ub.ac.id/competitioncodex24).
+2. Peserta dapat mendaftar melalui URL berikut: [http://clips.my.id/FormRegistrasiKompetisiCodEx2025](http://clips.my.id/FormRegistrasiKompetisiCodEx2025).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
@@ -101,6 +101,6 @@ Catatan: Khusus untuk peserta angkatan 2023, peringkat yang bisa didapatkan hany
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [+62 857-5058-3867](https://wa.me/+6285750583867) (Oktavianus)
+- 👤[WA]: [+62 878-8248-6002](https://wa.me/+6287882486002) (Nadia)
 - 👤[WA]: [+62 838-0828-2977](https://wa.me/+6283808282977) (Desta)
 
