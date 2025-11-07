@@ -35,7 +35,7 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal 31 Oktober - 7 November 2025. 
+1. Periode pendaftaran lomba ada di tanggal 31 Oktober - 9 November 2025. 
 2. Peserta dapat mendaftar melalui URL berikut: [http://clips.my.id/FormRegistrasiKompetisiCodEx2025](http://clips.my.id/FormRegistrasiKompetisiCodEx2025). 
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
@@ -45,7 +45,7 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
-| 31 Oktober - 7 November 2025 | Pendaftaran       | Dilakukan pada URL di atas    |
+| 31 Oktober - 9 November 2025 | Pendaftaran       | Dilakukan pada URL di atas    |
 | 10 November - 14 November 2025  | Pelaksanaan Lomba | Dilakukan pada platform lomba |
 | 16 November 2025               | Pengumuman        | Dilakukan secara online       |
 

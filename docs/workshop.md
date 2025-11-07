@@ -30,7 +30,7 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran _workshop_ ada di tanggal 31 Oktober - 7 November 2025.
+1. Periode pendaftaran _workshop_ ada di tanggal 31 Oktober - 8 November 2025.
 2. Peserta dapat mendaftar melalui URL berikut: [http://clips.my.id/FormRegistrasiWorkshopCodEx2025](http://clips.my.id/FormRegistrasiWorkshopCodEx2025).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi peserta yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
@@ -40,8 +40,8 @@ Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Tr
 
 | Tanggal                       | Kegiatan          | Keterangan                    |
 |-------------------------------|-------------------|-------------------------------|
-| 31 Oktober - 7 November 2025  | Pendaftaran       | Dilakukan pada URL di atas    |
-| 9 November 2024               | Workshop          | GKM Filkom 4.1 dan 4.2        |
+| 31 Oktober - 8 November 2025  | Pendaftaran       | Dilakukan pada URL di atas    |
+| 9 November 2024               | Workshop          | Gedung F Filkom 2.6 dan 2.4        |
 
 ## Narahubung
 
