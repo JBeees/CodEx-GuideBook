@@ -93,9 +93,9 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3) diber
 
 | Peringkat           | Penghargaan            |
 |---------------------|------------------------|
-| Juara 1             | Secret |
-| Juara 2             | Secret |
-| Juara 3             | Secret |
+| Juara 1             | Tumbler + Totebag + Keychain + Full sticker pack exclusive BCC |
+| Juara 2             | Totebag + Keychain + Mini sticker pack exclusive BCC |
+| Juara 3             | Totebag exclusive BCC |
 
 Catatan: Khusus untuk peserta angkatan 2023, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2023 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 
