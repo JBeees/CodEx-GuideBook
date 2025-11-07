@@ -89,7 +89,7 @@ Peserta yang terindikasi melakukan:
 ### Penghargaan
 
 
-Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3, dan 2 _honorable mention_) diberikan penghargaan berupa sertifikat dan hadiah rahasia sesuai peringkat juara.
+Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3) diberikan penghargaan berupa sertifikat dan hadiah rahasia sesuai peringkat juara.
 
 | Peringkat           | Penghargaan            |
 |---------------------|------------------------|
