@@ -55,7 +55,6 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 
 1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pemanasan.
 2. Kompetisi akan dilakukan selama 5 hari dari tanggal 10 November 2025 pukul 19:00 WIB hingga 14 November 2025 pukul 19:00 WIB. 
-3. _Scoreboard_ dari kompetisi akan dibekukan 1 jam sebelum kompetisi selesai. Selama _scoreboard_ dibekukan, setiap peserta tetap dapat mengerjakan soal, tetapi skor akhir tidak akan ditampilkan pada _scoreboard_.
 
 ## Teknis Lomba
 
