@@ -53,7 +53,7 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 
 ### Kompetisi
 
-1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pemanasan.
+1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi adalah [HackerRank](https://www.hackerrank.com/).
 2. Kompetisi akan dilakukan selama 5 hari dari tanggal 10 November 2025 pukul 19:00 WIB hingga 14 November 2025 pukul 19:00 WIB. 
 
 ## Teknis Lomba
